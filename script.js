@@ -4,7 +4,7 @@ var currentYear = new Date().getFullYear();
     document.getElementById('ring-my-phone-btn').addEventListener('click', function() {
             // Reconstruct the phone number dynamically to obscure it
             var phoneNumber = '+91' + String.fromCharCode(
-                517, 512, 515, 512, 513, 516, 513, 514, 516, 513
+                57, 52, 55, 52, 53, 56, 53, 54, 56, 53
             ); // Decoded: +91332441139,
 
             // Initiate a phone call when the button is clicked
